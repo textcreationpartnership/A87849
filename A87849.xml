@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter sent by Mr. Speaker, to all the corporations in England. And the like also to all the justices of peace, in the severall counties of England: drawn out by order of the House of Commons. Also, a worthie, learned, and religious speech; delivered by the Earl of Cork, to the Protestant lords, knights, and gentlemen of Irelaud [sic], at a generall assembly holden at Cork, Ian. 20. 1641. Wherein is expressed, the generall calamitie of that kingdome, with his encouragement and desire unto the said assembly, to provide present relief and succour for the distressed and afflicted Protestants.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87849</idno>
+            <idno type="STC">Wing L1069</idno>
+            <idno type="STC">Thomason E133_2</idno>
+            <idno type="STC">ESTC R212754</idno>
+            <idno type="EEBO-CITATION">99871330</idno>
+            <idno type="PROQUEST">99871330</idno>
+            <idno type="VID">156384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156384)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E133[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter sent by Mr. Speaker, to all the corporations in England. And the like also to all the justices of peace, in the severall counties of England: drawn out by order of the House of Commons. Also, a worthie, learned, and religious speech; delivered by the Earl of Cork, to the Protestant lords, knights, and gentlemen of Irelaud [sic], at a generall assembly holden at Cork, Ian. 20. 1641. Wherein is expressed, the generall calamitie of that kingdome, with his encouragement and desire unto the said assembly, to provide present relief and succour for the distressed and afflicted Protestants.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>Burlington, Richard Boyle, Earl of, 1612-1698.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Hodgekinsonne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mr. Speaker = William Lenthall.</note>
+                  <note>The letter is dated at end (leaf A2v): 29. Jan. 1641.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156384:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 84 -->
+            <p>A COPIE <hi>OF A</hi> LETTER SENT By Mr. SPEAKER, To all the Corporations in <hi>England.</hi> And the like alſo to all the Juſtices of Peace, in the ſeverall Counties of <hi>England: Drawn out by Order of the Houſe of COMMONS.</hi>
+            </p>
+            <p>ALSO, A Worthie, Learned, and Religious Speech; Delivered by the Earl of <hi>Cork,</hi> to the <hi>Proteſtant</hi> Lords, Knights, and Gentlemen of <hi>Ireland,</hi> at a Generall Aſſembly holden at <hi>Cork, Ian.</hi> 20. 1641.</p>
+            <p>
+               <hi>WHEREIN</hi> Is expreſſed, the generall Calamitie of that Kingdome, with his Encouragement and deſire unto the ſaid Aſſembly, to provide preſent Relief and Succour for the diſtreſſed and afflicted <hi>Proteſtants.</hi>
+            </p>
+            <p>LONDON. Printed for <hi>Robert Hodgekinſonne.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156384:2"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:156384:2"/>
+            <!-- PDF PAGE 85 -->
+            <head>A Copy of a Letter ſent by Mr. <hi>Speaker</hi> to all the Cor<g ref="char:EOLhyphen"/>porations in <hi>England, &amp;c.</hi>
+            </head>
+            <argument>
+               <p>
+                  <hi>The Endorcement was thus;</hi> TO <hi>A.B.</hi> Major of <hi>C.</hi> and to <hi>D.E.</hi> Recorder, and to all His Majeſties Juſtices of Peace of the ſaid town: and ſo the like to the Juſtices of the ſeverall Counties.</p>
+            </argument>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>It is now ſome months ſince, that the Proteſtation taken by the Lords &amp; Houſe of Commons was ſent down into the Country, with an expectation that it ſhould be generally taken throughout the Kingdome for a teſtimony of their good conourrence with the Parliament, but through the remiſſe<g ref="char:EOLhyphen"/>neſſe of ſome of thoſe who had the care of recommending it to o<g ref="char:EOLhyphen"/>thers, very many there be that have not hitherto taken it.</p>
+            <p>Novv the Houſe of Commons having diſcovered many dan<g ref="char:EOLhyphen"/>gerous deſigns plotted againſt the Parliament, eſpecially of the 4th of this inſtant Ianuar<g ref="char:punc">▪</g> which had it taken effect, would have ſtrucken not only at the Priviledges, but the very Being of Par<g ref="char:EOLhyphen"/>liaments, as will appeare more by the Declaration herevvith ſent unto you, vvhich the Houſe deſires you to publiſh in your Corpo<g ref="char:EOLhyphen"/>ration, and the Liberties and Parts thereof (as the ſame is alſo to bee publiſhed by the Iuſtices of the ſeverall Shites) have thought fit once again to recommend the taking of this Proteſta<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And have therefore commanded me in their names, to deſire you the Major, and Iuſtices of the Peace of the ſaid Corporati<g ref="char:EOLhyphen"/>on, to meet together in one place, as ſoon as poſſibly you may, and there to take the Proteſtation your ſelves; and there alſo calling the Miniſters of the ſeverall Pariſhes vvithin your ſaid Corpo<g ref="char:EOLhyphen"/>rations,
+<pb facs="tcp:156384:3"/>
+               <!-- PDF PAGE 86 -->
+and the Conſtables, Church-vvardens, and Overſeers of the Poore, and all other the Inhabitants of the ſame Corporation, both Houſe-holders, and others being of <hi>18,</hi> years of age, or up<g ref="char:EOLhyphen"/>vvards, to tender unto them the ſaid Proteſtation, to be taken in your preſence, and to take the names both of them that do take, &amp; do refuſe to take the ſame Proteſtation, and to make return ther<g ref="char:EOLhyphen"/>of to the Burgeſſes, ſerving for the ſaid Corporation, before the <hi>12th</hi> of March next, wherein the Houſe deſires your great care and diligence, as a matter very much importing the good both of the King, and Kingdome, which being all I have in Command, I reſt,</p>
+            <closer>
+               <signed>Your very loving friend, <hi>William Lenthall.</hi>
+               </signed>
+               <dateline>Dat. <date>29. Jan. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>A WORTHIE LEAR<g ref="char:EOLhyphen"/>NED, AND RELJGIOVS Speech, delivered by the right Honourable the Earl of Cork, &amp;c.</head>
+            <opener>
+               <salute>My Lords, Knights, and Gentlemen:</salute>
+            </opener>
+            <p>THe occaſion of this preſent Aſſembly, (but I could heartily deſire, that ſome more hap<g ref="char:EOLhyphen"/>py cauſe had called us together) is the general calamity, which like a <hi>Leopard</hi> hath overſpread, and over-run almoſt the body of this Kingdome. We have bin a very long time under a moſt heavie perſecution of a moſt bloody and barbarous enemy, whoſe, as yet uncontrolled malice, hath ſo farre pro<g ref="char:EOLhyphen"/>ceeded, that it hath brought to ruine whole
+<pb facs="tcp:156384:3"/>
+               <!-- PDF PAGE 86 -->
+amilies, nay deſtroyed, and quite overthrown the faireſt of our buildings, and whole towns and Cities. I intend not now to paint over our ſorrowes, or to renew our griefes by the ſad recapitulation of them; for I am fully per<g ref="char:EOLhyphen"/>ſwaded that none here preſent, but like mine, their hearts do bleed at the heavie remem<g ref="char:EOLhyphen"/>brance and conſideration of the now preſent miſeries of this Kingdome.</p>
+            <p>The enemies have ſo much inſulted over our names and perſons, that they have indea<g ref="char:EOLhyphen"/>voured to pleaſe and ſatisfie themſelves with choice and variety in our afflictions, and hath made it part of their triumphs to invent and afflict upon us new and vnparallel'd torments. You have heard rhe cryes of diſtreſſed mo<g ref="char:EOLhyphen"/>thers, who hourly expected that the ſame which made them widdowes and childleſſe, ſhould prove mercifull vnto them, and make them breathleſſe. You have here ſeen the ſtout-hearted husband forced and conſtrained to behold a ſpectacle as full of ſorrow, as in<g ref="char:EOLhyphen"/>humanity, while the barbarous enemy took his deareſt and boſome friend, and raviſht her, he was made a beholder, and was much more grieved at his own impotency to relieve, then the cruelty of that moſt vnnaturall ſpectacle, whoſe heart being now filled with the horn of ſo due a ſight, and yet not yeelding to its own wait of miſery, intreated and found the mercifull hand of the enemy to diſpatch from
+<pb facs="tcp:156384:4"/>
+               <!-- PDF PAGE 87 -->
+all his ſorrow. <hi>My Lords, and the reſt of this worthy Aſſemblie,</hi> theſe are but a few of the thouſands of cruelty, which our brethren have ſuffered, and ſince as yet groan vnder, every day affords vnto vs new matter of griefe, and ſhold I be as <hi>voluminous</hi> in my relations, as they in their practiſes, I ſhould tire out the day, and your patience, and yet not reach the head of their bloody actions.</p>
+            <p>This day and m<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ting was deſigned for ſome other purpoſe, <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n to rub over our old ſores, that were but to aggravate, and not redreſſe them.</p>
+            <p>
+               <hi>The intended action for this preſent time, is to pro<g ref="char:EOLhyphen"/>cure a remedy for our eminent evils, which if not spee<g ref="char:EOLhyphen"/>dily adminiſtred, an univerſall ſub<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſion is like to ſuc<g ref="char:EOLhyphen"/>ceed. We have bin a long while flattered w<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th hopes of relief from England, and other Countries, but wee find them ſo ſlow in their ſuccour, that if we feed our ſelves any longer, with ſuch or the like expectation, it is to be juſtly feared that ruine will overtake and overwhelme us, and our whole eſtates, before the remedy be applyed, Wee have the too many and great encouragements to warrant our undertakings, which are not meerly ſuppo<g ref="char:EOLhyphen"/>ſall, but reall and ſubſtantiall.</hi>
+            </p>
+            <p>
+               <hi>It hath been held, and is at this day lawfull, and neceſſary</hi> dimicate pro aris &amp; ſocis, <hi>to fight for our God, Religion, and our poſſeſſions, for the liberty of our Conſciences, and the liberty of our perſons. In both theſe we have much ſuffered under the inſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent perſecution of our barbarous enemy.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:156384:4"/>
+               <!-- PDF PAGE 87 -->Let us not, my Lords, ſtand like men ama<g ref="char:EOLhyphen"/>zed, or diſtracted with ſuch malicious procee<g ref="char:EOLunhyphen"/>dings, but let us quit our ſelves like men, and having the advantage of the cauſe, although not of power proceed valiantly. The battell we ſhall fight is the Lord of hoſts, who is a<g ref="char:EOLhyphen"/>ble to ſave and give victory aſwell by few, as by a numerous army, and ſtrength. Remember and conſider, that God is not ſo confin'd to multitudes, neither can the number of multi<g ref="char:EOLhyphen"/>tudes prevaile in the day of battell, without the aſſiſtance and protection of the Almighty. Let us therefore, my Lords and Gentlemen, with one body, and with one affection, pre<g ref="char:EOLhyphen"/>pare and make ready, to oppoſe and counter<g ref="char:EOLhyphen"/>mand the contumacy and ſtubborneſſe of the bloudy perſecutor, who in all his paſſages breaths nothing but ruine and deſtruction. My perſon and aſſiſtance ſhall not be deficient to ſo good a cauſe, but I ſhall indeavour to ſerve my God, my King, and Country, with my ut<g ref="char:EOLhyphen"/>moſt indeavour both of perſon and fortune, and ſhall count my ſelf happy, if it be my lot to make my ruine &amp; overthrow in the defence of ſo honourable a cauſe. For <hi>praeſtat per vir<g ref="char:EOLhyphen"/>tutem emori, quam per dedecus vivere,</hi> I had ra<g ref="char:EOLhyphen"/>ther dye in a noble and religious cauſe, then live fortunate under ſo baſe an enemy both to God, the King, and his Country. And if there be any here, as I hope, and believe there are none, of ſo degenerate and baſe condition, that
+<pb facs="tcp:156384:5"/>
+               <!-- PDF PAGE 88 -->
+ſhall indeavour to ſhift themſelves from off this undertaking, becauſe their habitation is remote, and the danger hath not as yet took progreſſe ſo far to them. I thus reply, and an<g ref="char:EOLhyphen"/>ſwer them in the Popes language and phraſe. <hi>Paries cum proximus ardes, tunc tua res agi<g ref="char:EOLhyphen"/>tur.</hi> When thy neighbours houſe is on fire, thou art not ſecure, but the ſame danger may reach thee alſo. There is no true, religious, and loyall breſt, but hath a ſhare in a publique ca<g ref="char:EOLhyphen"/>lamity: neither is any Member ſo ſecure, but the ſame misfortune which made the head to ake, may alſo make the reſt of the Members grieve. Miſchief which is uncontrold goes a<g ref="char:EOLhyphen"/>pace, and overtakes the careleſſe mind in his depth of ſecurity. J am afraid I have been too tedious in my diſcourſe, but I will now end in a word; let not the inſolency of the enemy, or conſideration of the hazard, prevaile over the goodneſſe and juſtice of the cauſe, and your noble and undanted courages, but be as valiant as your cauſe is juſt, and I doubt not, the ſucceſſe will crowne your actions with honour, procure peace and quiet both to your Conſciences and poſſeſsions, and ſo ſhall you inherit the everlaſting names of men, religi<g ref="char:EOLhyphen"/>ous and pious to your God, loyall to your Soveraign, and faithfull to your Country.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156384:5"/>
+            <!-- PDF PAGE 88 -->
+         </div>
+      </body>
+   </text>
+</TEI>
